@@ -1,7 +1,7 @@
 exports.postHandler = (req, res) => {
     const { data } = req.body;
-    const user_id = "john_doe_17091999";
-    const email = "john@xyz.com";
+    const user_id = "SahejSeth123";
+    const email = "sahej.seth@gmail.com";
     const roll_number = "ABCD123";
   
     let numbers = [];
